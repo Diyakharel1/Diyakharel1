@@ -10,7 +10,7 @@
 ---
 
 ## 💫 About Me  
-🎓 Second-year BSc (Hons) Computer Science with Artificial Intelligence student at **Sunway College Kathmandu**  in associate with Birmingham City University,UK
+🎓 Second-year BSc (Hons) Computer Science with Artificial Intelligence student at **Sunway College Kathmandu**  
 🌱 Learning to build smart, data-driven solutions with real-world impact  
 🌟 Passionate about AI/ML, Data Science, and meaningful tech innovation  
 📍 Based in Chundevi, Bhaktapur | Kathmandu Valley, Nepal  
