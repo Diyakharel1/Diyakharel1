@@ -3,10 +3,9 @@
 <h3 align="center">💻 Computer Science (AI) Student | 🤖 Tech Enthusiast | 🌟 Innovator</h3>
 
 
-<div style="text-align: center; margin-bottom: 0;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=AI+Explorer+from+Nepal;Web+%26+ML+Enthusiast;Freelance+Content+Creator" alt="Typing SVG" style="display: block; margin: 0 auto;" />
-</div>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=AI+Explorer+from+Nepal;Web+%26+ML+Enthusiast;Freelance+Content+Creator" alt="Typing SVG" />
+</p>
 
 ---
 
