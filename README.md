@@ -13,7 +13,7 @@
 🎓 Second-year BSc (Hons) Computer Science student with a focus on Artificial Intelligence at **Sunway College Kathmandu**  
 🌱 Learning to build smart, data-driven solutions with real-world impact  
 🌟 Passionate about AI/ML, Data Science, and meaningful tech innovation  
-💡 Creative Content Creator | Video Presenter
+💡 Creative Content Creator | Video Presenter  
 📍 Based in Chundevi, Bhaktapur | Kathmandu Valley, Nepal  
 
 ---
