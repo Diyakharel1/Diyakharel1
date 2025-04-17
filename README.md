@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=AI+Explorer+from+Nepal;Web+%26+ML+Enthusiast;Creative+Thinker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=AI+Explorer+from+Nepal;Web+%26+ML+Enthusiast;Freelance+Content+Creator" alt="Typing SVG" />
 </p>
 
 
@@ -14,7 +14,6 @@
 🎓 Second-year BSc (Hons) Computer Science student with a focus on Artificial Intelligence at **Sunway College Kathmandu**  
 🌱 Learning to build smart, data-driven solutions with real-world impact  
 🌟 Passionate about AI/ML, Data Science, and meaningful tech innovation  
-💡 Creative Content Creator | Video Presenter  
 📍 Based in Chundevi, Bhaktapur | Kathmandu Valley, Nepal  
 
 ---
